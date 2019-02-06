@@ -5,5 +5,3 @@
 安装：
 复制PnFMods/和PnFModsLoader.py到res_mods/版本号/
 重启游戏后生效
-
-如果使用不遂请在设置里将图形API切换为DirectX 9

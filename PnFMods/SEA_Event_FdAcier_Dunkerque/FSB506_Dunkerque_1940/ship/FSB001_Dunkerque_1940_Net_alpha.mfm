@@ -1,0 +1,14 @@
+<FSB001_Dunkerque_1940_Net_alpha.mfm>
+	<fx>	shaders/std_effects/grid_alpha.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_EVT_FdAcier_Dunkerque/FSB506_Dunkerque_1940/ship/FSB001_Dunkerque_1940_Net_alpha_a.dds	</Texture>
+	</property>
+	<property>	doubleSided
+		<Bool>	true	</Bool>
+	</property>
+	<property>	alphaReference
+		<Int>	80	</Int>
+	</property>
+</FSB001_Dunkerque_1940_Net_alpha.mfm>
